@@ -1,3 +1,5 @@
+package ru.netology.todos;
+
 public class SimpleTask extends Task {
     protected String title;
 

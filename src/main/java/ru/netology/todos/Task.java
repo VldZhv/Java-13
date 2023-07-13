@@ -1,3 +1,5 @@
+package ru.netology.todos;
+
 import java.util.Objects;
 
 public class Task {
